@@ -1,0 +1,86 @@
+﻿using Common.Entity;
+using DataAccessLayer.Configurations;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
+using System.Collections.Generic;
+using StaticDotNet.EntityFrameworkCore.ModelConfiguration;
+
+namespace DataAccessLayer
+{
+    public class MSContext : DbContext
+    {
+        public MSContext(DbContextOptions<MSContext> options) : base(options)
+        { }
+
+        public DbSet<BanEntity> Bans { get; set; }
+        public DbSet<CardEntity> Cards { get; set; }
+        public DbSet<CardFieldEntity> CardFields { get; set; }
+        public DbSet<CommentEntity<PetitionEntity>> PetitionComments { get; set; }
+        public DbSet<CommentEntity<NewsEntity>> NewsComments { get; set; }
+        public DbSet<ConferenceEntity> Conferences { get; set; }
+        public DbSet<ConferenceReserveEntity> ConferenceReserves { get; set; }
+        public DbSet<CroppedPhotoEntity> CroppedPhotoes { get; set; }
+        public DbSet<FaqArticleEntity> FaqArticles { get; set; }
+        public DbSet<FeedBackEntity> FeedBacks { get; set; }
+        public DbSet<ImageEntity> Images { get; set; }
+        public DbSet<PetitionEntity> Petitions { get; set; }
+        public DbSet<PetitionVoteEntity> PetitionVotes { get; set; }
+        public DbSet<PurchaseEntity> Purchases { get; set; }
+        public DbSet<TagEntity> Tags { get; set; }
+        public DbSet<TemplateEntity> Templates { get; set; }
+        public DbSet<NewsEntity> News { get; set; }
+        public DbSet<UserEntity> Users { get; set; }
+        public DbSet<FieldTypeEntity> FieldTypes { get; set; }
+        public DbSet<TokenEntity> Tokens { get; set; }
+<<<<<<< HEAD
+        public DbSet<UsersGroupEntity> GroupsManagment { get; set; }
+        public DbSet<GroupUserEntity> GroupUsers { get; set; }
+        public DbSet<SkillGroupEntity> SkillGroups { get; set; }
+        public DbSet<SkillToSkillGroupEntity> SkillToSkillGroup { get; set; }
+        public DbSet<ContentForSkillEntity> ContentForSkill { get; set; }
+        public DbSet<SkillEntity> Skill { get; set; }
+        public DbSet<UserSkillEntity> UserSkill { get; set; }
+
+=======
+        public DbSet<VacationEntity> Vacations { get; set; }
+        public DbSet<TeamEntity> Teams { get; set; }
+        public DbSet<TeamMemberEntity> TeamMembers { get; set; }
+>>>>>>> develop
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<TagEntity>()
+                .HasOne(p => p.Card)
+                .WithMany(t => t.Tags)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<TagEntity>()
+                .HasOne(p => p.Petition)
+                .WithMany(t => t.Tags)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<ConferenceReserveEntity>()
+                .HasOne(p => p.Conference)
+                .WithMany(t => t.ConferenceReserves)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<TagEntity>()
+                .HasOne(p => p.Conference)
+                .WithMany(t => t.Tags)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<CroppedPhotoEntity>()
+               .HasOne(p => p.User)
+               .WithOne(t => t.CroppedPhoto)
+               .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<CardEntity>()
+               .HasOne(p => p.User)
+               .WithOne(t => t.Card)
+               .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.AddConfiguration(new FeedBackConfiguration());
+            modelBuilder.AddConfiguration(new TeamConfiguration());
+        }
+    }
+}

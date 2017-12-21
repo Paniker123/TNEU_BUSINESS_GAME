@@ -1,0 +1,14 @@
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Common.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Newtonsoft.Json.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\System.Linq.Dynamic.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\obj\Release\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Common\obj\Release\Common.pdb

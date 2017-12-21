@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AEFD80A-8C2E-4B42-ACEE-9E9DA96E4149}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Http, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.1.1.2\lib\net451\Microsoft.AspNetCore.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Abstractions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Abstractions.1.1.2\lib\net451\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Features, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Features.1.1.2\lib\net451\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Ігор\.nuget\packages\newtonsoft.json\9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Linq.Dynamic, Version=1.0.6132.35681, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Dynamic.1.0.7\lib\net40\System.Linq.Dynamic.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DTO\Account\ChangePasswordRequest.cs" />
+    <Compile Include="DTO\Account\ForgotPasswordRequest.cs" />
+    <Compile Include="DTO\Account\RejectUserRequest.cs" />
+    <Compile Include="DTO\Account\RestorePasswordRequest.cs" />
+    <Compile Include="DTO\Account\UserProfileInfo.cs" />
+    <Compile Include="DTO\Account\UserDTO.cs" />
+    <Compile Include="DTO\Account\UserViewInfo.cs" />
+    <Compile Include="DTO\Ban\BanInfo.cs" />
+    <Compile Include="DTO\Card\CardFieldInfo.cs" />
+    <Compile Include="DTO\Card\CardInfo.cs" />
+    <Compile Include="DTO\Card\EditCardRequest.cs" />
+    <Compile Include="DTO\Card\SearchCardRequest.cs" />
+    <Compile Include="DTO\Comment\CommentInfo.cs" />
+    <Compile Include="DTO\Comment\CommentRequest.cs" />
+    <Compile Include="DTO\Communication\Notification.cs" />
+    <Compile Include="DTO\Communication\DoubleResponse.cs" />
+    <Compile Include="DTO\Communication\ReceiverContainer.cs" />
+    <Compile Include="DTO\Communication\SmsResponse.cs" />
+    <Compile Include="DTO\Communication\ViberResponse.cs" />
+    <Compile Include="DTO\Conference\ConferenceReserveDTO.cs" />
+    <Compile Include="DTO\Conference\RejectReservingConferenceRequest.cs" />
+    <Compile Include="DTO\Contact\EmailDispatchRequest.cs" />
+    <Compile Include="DTO\Group\AddGroupRequest.cs" />
+    <Compile Include="DTO\Group\EditUsersInGroup.cs" />
+    <Compile Include="DTO\Group\GroupInfo.cs" />
+    <Compile Include="DTO\Group\GroupParameters.cs" />
+    <Compile Include="DTO\Group\RemoveGroupRequest.cs" />
+    <Compile Include="DTO\Group\UpdateGroupRequest.cs" />
+    <Compile Include="DTO\Image\ImageInfo.cs" />
+    <Compile Include="DTO\PersonalPlan\ContentForSkillRequst.cs" />
+    <Compile Include="DTO\PersonalPlan\ContentForSkillDTO.cs" />
+    <Compile Include="DTO\PersonalPlan\EditSkillDTO.cs" />
+    <Compile Include="DTO\PersonalPlan\EditSkillRequest.cs" />
+    <Compile Include="DTO\PersonalPlan\SkillDTO.cs" />
+    <Compile Include="DTO\PersonalPlan\SkillParams.cs" />
+    <Compile Include="DTO\PersonalPlan\SkillRequest.cs" />
+    <Compile Include="DTO\PersonalPlan\UserSkillDTO.cs" />
+    <Compile Include="DTO\Petition\RejectPetitionRequest.cs" />
+    <Compile Include="DTO\Purchase\RejectedPurchaseInfo.cs" />
+    <Compile Include="DTO\Purchase\SubmitedPurchaseInfo.cs" />
+    <Compile Include="DTO\SkillGroup\AddSkillGroupRequest.cs" />
+    <Compile Include="DTO\SkillGroup\AddSkillsToUser.cs" />
+    <Compile Include="DTO\SkillGroup\EditSkillToSkillGroupcs.cs" />
+    <Compile Include="DTO\SkillGroup\SkillGroupDTO.cs" />
+    <Compile Include="DTO\SkillGroup\SkillGroupInfo.cs" />
+    <Compile Include="DTO\SkillGroup\UpdateSkillGroupRequest.cs" />
+    <Compile Include="DTO\Tag\TagsAutocompleteRequest.cs" />
+    <Compile Include="DTO\CroppedPhoto\ChangeCroppedPhotoRequest.cs" />
+    <Compile Include="DTO\CroppedPhoto\CroppedPhotoInfo.cs" />
+    <Compile Include="DTO\Contact\WriteToContactRequest.cs" />
+    <Compile Include="DTO\Faq\FaqArticleRequest.cs" />
+    <Compile Include="DTO\Faq\FaqArticleInfo.cs" />
+    <Compile Include="DTO\FeedBack\AddFeedBackRequest.cs" />
+    <Compile Include="DTO\FeedBack\ChangeFeedBackStatusRequest.cs" />
+    <Compile Include="DTO\FeedBack\FeedBackInfo.cs" />
+    <Compile Include="DTO\News\NewsDTO.cs" />
+    <Compile Include="DTO\News\NewsInfo.cs" />
+    <Compile Include="DTO\News\NewsRequest.cs" />
+    <Compile Include="DTO\Petition\ConfirmPetitionRequest.cs" />
+    <Compile Include="DTO\Petition\AcceptPetitionRequest.cs" />
+    <Compile Include="DTO\Petition\AddPetitionRequest.cs" />
+    <Compile Include="DTO\Petition\PetitionInfo.cs" />
+    <Compile Include="DTO\Petition\PetitionVoteInfo.cs" />
+    <Compile Include="DTO\Purchase\AddPurchaseRequest.cs" />
+    <Compile Include="DTO\Purchase\PurchaseInfo.cs" />
+    <Compile Include="DTO\Purchase\PurchaseHistoryRequest.cs" />
+    <Compile Include="DTO\Ban\SetBanRequest.cs" />
+    <Compile Include="DTO\Tag\TagInfo.cs" />
+    <Compile Include="DTO\Team\CreateTeamRequest.cs" />
+    <Compile Include="DTO\Team\EditTeamRequest.cs" />
+    <Compile Include="DTO\Team\MoveTeamMemberRequest.cs" />
+    <Compile Include="DTO\Team\TeamInfo.cs" />
+    <Compile Include="DTO\Team\TeamMemberInfo.cs" />
+    <Compile Include="DTO\Template\TemplateInfo.cs" />
+    <Compile Include="Entity\SkillToSkillGroupEntity.cs" />
+    <Compile Include="Entity\ContentForSkillEntity.cs" />
+    <Compile Include="Entity\SkillGroupEntity.cs" />
+    <Compile Include="Entity\UsersGroupEntity.cs" />
+    <Compile Include="Entity\GroupUserEntity.cs" />
+    <Compile Include="Entity\SkillEntity.cs" />
+    <Compile Include="DTO\Vacation\AddVacationRequest.cs" />
+    <Compile Include="DTO\Vacation\GetVacationsRequest.cs" />
+    <Compile Include="DTO\Vacation\RejectVacationRequest.cs" />
+    <Compile Include="DTO\Vacation\VacationDTO.cs" />
+    <Compile Include="Entity\TeamEntity.cs" />
+    <Compile Include="Entity\TeamMemberEntity.cs" />
+    <Compile Include="Entity\TokenEntity.cs" />
+    <Compile Include="Entity\FieldTypeEntity.cs" />
+    <Compile Include="Entity\UserSkillEntity.cs" />
+    <Compile Include="Entity\VacationEntity.cs" />
+    <Compile Include="Enums\ConferenceSortTypes.cs" />
+    <Compile Include="Enums\FieldTypes.cs" />
+    <Compile Include="Enums\GroupSortedType.cs" />
+    <Compile Include="Enums\OperationResults.cs" />
+    <Compile Include="Enums\OrderBy.cs" />
+    <Compile Include="Enums\PhotoTypes.cs" />
+    <Compile Include="Enums\NotificationActions.cs" />
+    <Compile Include="Enums\PetitionSortTypes.cs" />
+    <Compile Include="Enums\PurchaseSortTypes.cs" />
+<<<<<<< HEAD
+    <Compile Include="Enums\SkillSortedType.cs" />
+    <Compile Include="Enums\SkillStatus.cs" />
+=======
+    <Compile Include="Enums\SendMessageTypes.cs" />
+    <Compile Include="Enums\SmsResponseStateCodes.cs" />
+>>>>>>> develop
+    <Compile Include="Enums\SocketResponseTypes.cs" />
+    <Compile Include="Enums\SubscribedModules.cs" />
+    <Compile Include="Enums\TeamRoles.cs" />
+    <Compile Include="Enums\TemplateTypes.cs" />
+    <Compile Include="Enums\TimedContainerTypes.cs" />
+    <Compile Include="Enums\VacationHistoryRequestTypes.cs" />
+    <Compile Include="Enums\VacationStatuses.cs" />
+    <Compile Include="Enums\VacationTypes.cs" />
+    <Compile Include="Enums\ViberResponseStatuses.cs" />
+    <Compile Include="Helpers\SortingByDateHelper.cs" />
+    <Compile Include="Interfaces\DTO\IAddSkillResponse.cs" />
+    <Compile Include="Interfaces\DTO\IGroupInfo.cs" />
+    <Compile Include="Interfaces\DTO\IPetitionInfo.cs" />
+    <Compile Include="Interfaces\DTO\IPurchaseInfo.cs" />
+    <Compile Include="Interfaces\DTO\IRejectedPurchase.cs" />
+    <Compile Include="Interfaces\DTO\ISkillGroupInfo.cs" />
+    <Compile Include="Interfaces\DTO\ISubmitedPurchase.cs" />
+    <Compile Include="Interfaces\DTO\IUserProfile.cs" />
+    <Compile Include="Interfaces\Entity\ITeam.cs" />
+    <Compile Include="Interfaces\Entity\ITeamMember.cs" />
+    <Compile Include="Interfaces\Entity\IContentForSkill.cs" />
+    <Compile Include="Interfaces\Entity\IGroup.cs" />
+    <Compile Include="Interfaces\Entity\IGroupUser.cs" />
+    <Compile Include="Interfaces\Entity\ISkill.cs" />
+    <Compile Include="Interfaces\Entity\ISkillGroup.cs" />
+    <Compile Include="Interfaces\Entity\ISkillToSkillGroup.cs" />
+    <Compile Include="Interfaces\Entity\IToken.cs" />
+    <Compile Include="Interfaces\Entity\IUserSkillEntity.cs" />
+    <Compile Include="Interfaces\Entity\IVacation.cs" />
+    <Compile Include="Interfaces\Services\IAccountService.cs" />
+    <Compile Include="DTO\Authentication\LoginRequest.cs" />
+    <Compile Include="DTO\Authentication\TokenResponse.cs" />
+    <Compile Include="DTO\Communication\Error.cs" />
+    <Compile Include="DTO\Communication\Response.cs" />
+    <Compile Include="DTO\Communication\TimedContainer.cs" />
+    <Compile Include="DTO\Conference\ConferenceDTO.cs" />
+    <Compile Include="DTO\Conference\ConferenceParameters.cs" />
+    <Compile Include="DTO\Petition\PetitionsParameters.cs" />
+    <Compile Include="DTO\Registration\RegistrationRequest.cs" />
+    <Compile Include="Entity\BanEntity.cs" />
+    <Compile Include="Entity\CardEntity.cs" />
+    <Compile Include="Entity\CardFieldEntity.cs" />
+    <Compile Include="Entity\CommentEntity.cs" />
+    <Compile Include="Entity\ConferenceEntity.cs" />
+    <Compile Include="Entity\ConferenceReserveEntity.cs" />
+    <Compile Include="Entity\CroppedPhotoEntity.cs" />
+    <Compile Include="Entity\NewsEntity.cs" />
+    <Compile Include="Entity\FaqArticleEntity.cs" />
+    <Compile Include="Entity\FeedBackEntity.cs" />
+    <Compile Include="Entity\ImageEntity.cs" />
+    <Compile Include="Entity\PetitionEntity.cs" />
+    <Compile Include="Entity\PetitionVoteEntity.cs" />
+    <Compile Include="Entity\PurchaseEntity.cs" />
+    <Compile Include="Entity\TagEntity.cs" />
+    <Compile Include="Entity\TemplateEntity.cs" />
+    <Compile Include="Entity\UserEntity.cs" />
+    <Compile Include="Enums\CommentTypes.cs" />
+    <Compile Include="Enums\FeedBackStatuses.cs" />
+    <Compile Include="Enums\BanTypes.cs" />
+    <Compile Include="Enums\ConferenceReserveStatuses.cs" />
+    <Compile Include="Enums\PetitionStatuses.cs" />
+    <Compile Include="Enums\PurchaseStatuses.cs" />
+    <Compile Include="Enums\Roles.cs" />
+    <Compile Include="Interfaces\DTO\ICardInfo.cs" />
+    <Compile Include="Helpers\TripleDESCryptHelper.cs" />
+    <Compile Include="Interfaces\Entity\IBan.cs" />
+    <Compile Include="Interfaces\Entity\ICard.cs" />
+    <Compile Include="Interfaces\Entity\ICardEntity.cs" />
+    <Compile Include="Interfaces\Entity\ICardField.cs" />
+    <Compile Include="Interfaces\Entity\IConference.cs" />
+    <Compile Include="Interfaces\Entity\IComment.cs" />
+    <Compile Include="Interfaces\Entity\IConferenceReserve.cs" />
+    <Compile Include="Interfaces\Entity\ICroppedPhoto.cs" />
+    <Compile Include="Interfaces\Entity\INews.cs" />
+    <Compile Include="Interfaces\Entity\IFaqArticle.cs" />
+    <Compile Include="Interfaces\Entity\IFeedBack.cs" />
+    <Compile Include="Interfaces\Entity\IImage.cs" />
+    <Compile Include="Interfaces\Entity\IPetition.cs" />
+    <Compile Include="Interfaces\Entity\IPetitionVote.cs" />
+    <Compile Include="Interfaces\Entity\IPurchase.cs" />
+    <Compile Include="Interfaces\Entity\ITag.cs" />
+    <Compile Include="Interfaces\Entity\ITemplate.cs" />
+    <Compile Include="Interfaces\Entity\IUser.cs" />
+    <Compile Include="Interfaces\Repository\IBaseRepository.cs" />
+    <Compile Include="Interfaces\Services\IBanService.cs" />
+    <Compile Include="Interfaces\Services\ICommentService.cs" />
+    <Compile Include="Interfaces\Services\IContactService.cs" />
+    <Compile Include="Interfaces\Services\IEmailService.cs" />
+    <Compile Include="Interfaces\Services\IFaqService.cs" />
+    <Compile Include="Interfaces\Services\IFeedBackService.cs" />
+    <Compile Include="Interfaces\Entity\IFieldType.cs" />
+    <Compile Include="Interfaces\Services\IFileStoringService.cs" />
+<<<<<<< HEAD
+    <Compile Include="Interfaces\Services\IGroupService.cs" />
+=======
+    <Compile Include="Interfaces\Services\ISendingService.cs" />
+    <Compile Include="Interfaces\Services\ISmsService.cs" />
+    <Compile Include="Interfaces\Services\IVacationService.cs" />
+>>>>>>> develop
+    <Compile Include="Interfaces\Services\INewsService.cs" />
+    <Compile Include="Interfaces\Services\IConferenceService.cs" />
+    <Compile Include="Interfaces\Services\IPetitionService.cs" />
+    <Compile Include="Interfaces\Services\ICardService.cs" />
+    <Compile Include="Interfaces\Services\ILoginService.cs" />
+    <Compile Include="Interfaces\Services\IPurchaseService.cs" />
+    <Compile Include="Interfaces\Services\ISkillGroupService.cs" />
+    <Compile Include="Interfaces\Services\ISkillService.cs" />
+    <Compile Include="Interfaces\Services\ISpaceSocketServer.cs" />
+    <Compile Include="Interfaces\Services\ITeamService.cs" />
+    <Compile Include="Interfaces\Services\ITemplateService.cs" />
+    <Compile Include="Interfaces\Services\ITimeredFunctionsService.cs" />
+<<<<<<< HEAD
+    <Compile Include="Interfaces\Services\IVacationService.cs" />
+=======
+    <Compile Include="Interfaces\Services\IViberService.cs" />
+>>>>>>> develop
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sockets\Base\BaseMessage.cs" />
+    <Compile Include="Sockets\Base\BaseRequest.cs" />
+    <Compile Include="Sockets\Base\SocketResponse.cs" />
+    <Compile Include="Sockets\Login\SocketTokenInfo.cs" />
+    <Compile Include="Sockets\Subscribtions\ModuleSubscribe.cs" />
+    <Compile Include="Sockets\Unsubscribtions\NewsModuleUnSubscribe.cs" />
+    <Compile Include="Sockets\Subscribtions\NewsModuleSubscribe.cs" />
+    <Compile Include="Sockets\Unsubscribtions\PetitionModuleUnSubscribe.cs" />
+    <Compile Include="Sockets\Subscribtions\PetitionModuleSubscribe.cs" />
+    <Compile Include="Sockets\Unsubscribtions\SingleModuleUnSubscribe.cs" />
+    <Compile Include="Sockets\Subscribtions\SingleModuleSubscribe.cs" />
+    <Compile Include="Sockets\Login\SocketLogOutRequest.cs" />
+    <Compile Include="Sockets\Login\SocketLoginRequest.cs" />
+    <Compile Include="Utils\Extensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

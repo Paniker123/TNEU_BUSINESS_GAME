@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StaticDotNet.EntityFrameworkCore.ModelConfiguration</name>
+    </assembly>
+    <members>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.DbContextOptionsBuilderExtensions">
+            <summary>
+            Adds methods to <see cref="T:Microsoft.EntityFrameworkCore.DbContextOptionsBuilder" /> to add support for <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.DbContextOptionsBuilderExtensions.AddEntityTypeConfigurations``1(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder{``0},System.Reflection.Assembly[])">
+            <summary>
+            Adds <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from all of the <paramref name="assemblies" /> specified.
+            </summary>
+            <typeparam name="TContext">The type of <see cref="T:Microsoft.EntityFrameworkCore.DbContext" />.</typeparam>
+            <param name="builder">The builder.</param>
+            <param name="assemblies">The assemblies to search for <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.</param>
+            <returns>The builder.</returns>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="assemblies" /> is null.</exception>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.DbContextOptionsBuilderExtensions.AddEntityTypeConfigurations``1(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder{``0},StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider)">
+            <summary>
+            Adds <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> base on the <paramref name="provider" />.
+            </summary>
+            <typeparam name="TContext">The type of <see cref="T:Microsoft.EntityFrameworkCore.DbContext" />.</typeparam>
+            <param name="builder">The builder.</param>
+            <param name="provider">The <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" />.</param>
+            <returns>The builder.</returns>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="provider" /> is null.</exception>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.DbContextOptionsBuilderExtensions.AddEntityTypeConfigurations(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder,System.Reflection.Assembly[])">
+            <summary>
+            Adds <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from all of the <paramref name="assemblies" /> specified.
+            </summary>
+            <param name="builder">The builder.</param>
+            <param name="assemblies">The assemblies to search for <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.</param>
+            <returns>The builder.</returns>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="assemblies" /> is null.</exception>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.DbContextOptionsBuilderExtensions.AddEntityTypeConfigurations(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder,StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider)">
+            <summary>
+            Adds <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> base on the <paramref name="provider" />.
+            </summary>
+            <param name="builder">The builder.</param>
+            <param name="provider">The <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" />.</param>
+            <returns>The builder.</returns>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="provider" /> is null.</exception>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.EntityTypeConfiguration`1">
+            <summary>
+            Responsible for configuring an entity.
+            </summary>
+            <typeparam name="TEntity">The the type of entity to configure.</typeparam>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.EntityTypeConfiguration`1.EntityType">
+            <summary>
+            Gets the type of entity to configure.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.EntityTypeConfiguration`1.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder{`0})">
+            <summary>
+            Configures the entity.
+            </summary>
+            <param name="builder">The builder used to configure the entity.</param>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration">
+            <summary>
+            Responsible for configuring an entity.
+            </summary>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration.EntityType">
+            <summary>
+            Gets the type of entity to configure.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder)">
+            <summary>
+            Configures the entity.
+            </summary>
+            <param name="builder">The builder used to configure the entity.</param>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Extensions.ParameterValidatorExtensions">
+            <summary>
+            Adds additional parameter validation.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Extensions.ParameterValidatorExtensions.IsForEntityType``1(StaticDotNet.ParameterValidation.ParameterValidator{Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder},Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder{``0}@)">
+            <summary>
+            Validates the parameter value is and <see cref="T:Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder" /> for the <typeparamref name="TEntity" />. Otherwise an <see cref="T:System.ArgumentException" /> is thrown.
+            </summary>
+            <typeparam name="TEntity">The type of entity.</typeparam>
+            <param name="validator">The parameter validator.</param>
+            <param name="entityTypeBuilder">The <see cref="T:Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1" />.</param>
+            <returns>The parameter validator.</returns>
+            <exception cref="T:System.ArgumentException">Thrown when the parameter value is not an entity type builder for <typeparamref name="TEntity" />.</exception>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer">
+            <summary>
+            Configures the entities by first getting the collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from the <see cref="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer.Provider" />.
+            Then proceeds with the default implementation of <see cref="T:Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer.#ctor(StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider)">
+            <summary>
+            Instantiates an instance of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer" />.
+            </summary>
+            <param name="provider">The provider used to get the collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="provider" /> is null.</exception>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer.Provider">
+            <summary>
+            Returns the <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer.Customize(Microsoft.EntityFrameworkCore.ModelBuilder,Microsoft.EntityFrameworkCore.DbContext)">
+            <summary>
+            Configures the entities by first getting the collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from the <see cref="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer.Provider" />.
+            Then proceeds with the default implementation of <see cref="T:Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer" />.
+            </summary>
+            <param name="modelBuilder">The builder being used to construct the model.</param>
+            <param name="dbContext">The context instance that the model is being created for.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="modelBuilder" /> or <paramref name="dbContext" /> is null.</exception>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationOptionsExtension">
+            <summary>
+            The <see cref="T:Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsExtension" /> which configures the services neccessary to support configuring entities with <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationOptionsExtension.#ctor(StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider)">
+            <summary>
+            Instantiates an instance of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationOptionsExtension" />.
+            </summary>
+            <param name="provider">The <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" />.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="provider" /> is null.</exception>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationOptionsExtension.Provider">
+            <summary>
+            Gets the <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationOptionsExtension.ApplyServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Replaces the <see cref="T:Microsoft.EntityFrameworkCore.Infrastructure.IModelCustomizer" /> implementation with <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Infrastructure.EntityTypeConfigurationModelCustomizer" />
+            and adds the <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider" /> to the <paramref name="services" />.
+            </summary>
+            <param name="services">The collection to add services to.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="services" /> is null.</exception>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Internal.ActivatorWrapper">
+            <summary>
+            Wrapper class around <see cref="T:System.Activator" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Internal.ActivatorWrapper.CreateInstance(System.Type)">
+            <summary>
+            Creates an instance of the specified type using that type's default constructor.
+            </summary>
+            <param name="type">The type of object to create.</param>
+            <returns>A reference to the newly created object.</returns>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Internal.IActivator">
+            <summary>
+            Interface to abstract <see cref="M:System.Activator.CreateInstance(System.Type)" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Internal.IActivator.CreateInstance(System.Type)">
+            <summary>
+            Creates an instance of the specified type using that type's default constructor.
+            </summary>
+            <param name="type">The type of object to create.</param>
+            <returns>A reference to the newly created object.</returns>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider">
+            <summary>
+            Returns a collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from the a collection of assemblies.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.#ctor(System.Collections.Generic.IEnumerable{System.Reflection.Assembly})">
+            <summary>
+            Instaniates and instance of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider" />.
+            </summary>
+            <param name="assemblies">The collection of assemblies to search.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="assemblies" /> is null.</exception>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.#ctor(System.Collections.Generic.IEnumerable{System.Reflection.Assembly},StaticDotNet.EntityFrameworkCore.ModelConfiguration.Internal.IActivator)">
+            <summary>
+            Instaniates and instance of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider" />.
+            </summary>
+            <param name="assemblies">The collection of assemblies to search.</param>
+            <param name="activator">The activator responsible for instantiating objects.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="assemblies" /> or <paramref name="activator" /> is null.</exception>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.Assemblies">
+            <summary>
+            Gets the collection of assmeblies to search.
+            </summary>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.Activator">
+            <summary>
+            Gets the activator responsible for creating objects.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.GetConfigurations">
+            <summary>
+            Gets a collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from the <see cref="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.Assemblies" />.
+            </summary>
+            <returns>The collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" /> from the <see cref="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.AssemblyEntityTypeConfigurationProvider.Assemblies" />.</returns>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider">
+            <summary>
+            Responsible for getting a collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.
+            </summary>
+        </member>
+        <member name="M:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Providers.IEntityTypeConfigurationProvider.GetConfigurations">
+            <summary>
+            Returns a collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.
+            </summary>
+            <returns>A collection of <see cref="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.IEntityTypeConfiguration" />.</returns>
+        </member>
+        <member name="T:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Resources.ExceptionMessages">
+            <summary>
+               A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Resources.ExceptionMessages.ResourceManager">
+            <summary>
+               Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Resources.ExceptionMessages.Culture">
+            <summary>
+               Overrides the current thread's CurrentUICulture property for all
+               resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:StaticDotNet.EntityFrameworkCore.ModelConfiguration.Resources.ExceptionMessages.VALUE_MUST_BE_FOR_ENTITY_TYPE">
+            <summary>
+               Looks up a localized string similar to Value must be entity type &apos;{0}&apos;..
+            </summary>
+        </member>
+    </members>
+</doc>

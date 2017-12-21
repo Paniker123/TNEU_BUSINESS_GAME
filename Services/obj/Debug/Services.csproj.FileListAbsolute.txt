@@ -1,0 +1,298 @@
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Services.dll.config
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Services.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Services.pdb
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Common.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\DataAccessLayer.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\log4net.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Newtonsoft.Json.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\SpreadsheetLight.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.AppContext.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Buffers.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Console.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Globalization.Calendars.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.Compression.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.FileSystem.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IO.Packaging.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Linq.Dynamic.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Net.Http.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Net.Sockets.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Reflection.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.Extensions.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.InteropServices.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Interactive.Async.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Remotion.Linq.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Collections.Immutable.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Common.pdb
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\DataAccessLayer.pdb
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\DataAccessLayer.dll.config
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.pdb
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\log4net.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Newtonsoft.Json.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\SpreadsheetLight.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\System.Interactive.Async.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Remotion.Linq.xml
+D:\Job\C#\workspace\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Job\C#\workspace\MagnisSpace\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Job\C#\workspace\MagnisSpace\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Job\C#\workspace\MagnisSpace\Services\obj\Debug\Services.dll
+D:\Job\C#\workspace\MagnisSpace\Services\obj\Debug\Services.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\obj\Debug\Services.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\obj\Debug\Services.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Services.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Services.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Services.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\log4net.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Options.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Newtonsoft.Json.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\SpreadsheetLight.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.AppContext.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Buffers.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Console.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Globalization.Calendars.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.Compression.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.FileSystem.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IO.Packaging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Linq.Dynamic.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Net.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Net.Sockets.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Reflection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.Extensions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Interactive.Async.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Remotion.Linq.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Collections.Immutable.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Common.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\DataAccessLayer.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\HtmlAgilityPack.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\log4net.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Options.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Newtonsoft.Json.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\SpreadsheetLight.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\System.Interactive.Async.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Remotion.Linq.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Services.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Services.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Services.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\HtmlAgilityPack.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\log4net.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Options.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Newtonsoft.Json.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\SpreadsheetLight.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.AppContext.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Buffers.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Console.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Globalization.Calendars.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.Compression.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.FileSystem.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IO.Packaging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Linq.Dynamic.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Net.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Net.Sockets.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Reflection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.Extensions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Interactive.Async.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Remotion.Linq.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Collections.Immutable.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Common.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\DataAccessLayer.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\HtmlAgilityPack.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\HtmlAgilityPack.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\log4net.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Options.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Newtonsoft.Json.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\SpreadsheetLight.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\System.Interactive.Async.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Remotion.Linq.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\obj\Debug\Services.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\obj\Debug\Services.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml

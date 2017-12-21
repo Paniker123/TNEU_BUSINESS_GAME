@@ -1,0 +1,211 @@
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Common.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Remotion.Linq.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.AppContext.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Console.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Interactive.Async.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Linq.Dynamic.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Net.Http.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Reflection.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Common.pdb
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Remotion.Linq.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Interactive.Async.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Job\C#\workspace\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Remotion.Linq.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\StaticDotNet.EntityFrameworkCore.ModelConfiguration.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\StaticDotNet.ParameterValidation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.AppContext.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Console.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Interactive.Async.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Linq.Dynamic.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Net.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Reflection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Common.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\Remotion.Linq.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\StaticDotNet.EntityFrameworkCore.ModelConfiguration.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\StaticDotNet.ParameterValidation.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Interactive.Async.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\MagnisSpace\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Common.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Remotion.Linq.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\StaticDotNet.EntityFrameworkCore.ModelConfiguration.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\StaticDotNet.ParameterValidation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.AppContext.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Console.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Interactive.Async.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.IO.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Linq.Dynamic.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Net.Http.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Reflection.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Common.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\Remotion.Linq.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\StaticDotNet.EntityFrameworkCore.ModelConfiguration.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\StaticDotNet.ParameterValidation.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Interactive.Async.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

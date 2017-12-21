@@ -1,0 +1,6 @@
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\bin\Debug\netstandard2.0\WebSoketLayer.deps.json
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\bin\Debug\netstandard2.0\WebSoketLayer.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\obj\Debug\netstandard2.0\WebSoketLayer.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\obj\Debug\netstandard2.0\WebSoketLayer.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\obj\Debug\netstandard2.0\WebSoketLayer.AssemblyInfoInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\WebSoketLayer\obj\Debug\netstandard2.0\WebSoketLayer.AssemblyInfo.cs

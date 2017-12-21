@@ -1,0 +1,9 @@
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\bin\Release\netstandard2.0\SignalR.deps.json
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\bin\Release\netstandard2.0\SignalR.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\bin\Release\netstandard2.0\SignalR.pdb
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.csprojResolveAssemblyReference.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.csproj.CoreCompileInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.AssemblyInfoInputs.cache
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.AssemblyInfo.cs
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.dll
+D:\University\3 Курс\QUIZ_TNEU\TNEU\QUIZ\SignalR\obj\Release\netstandard2.0\SignalR.pdb

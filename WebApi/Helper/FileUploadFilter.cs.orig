@@ -1,0 +1,51 @@
+﻿using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.AspNetCore.SwaggerGen;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MagnisSpaceWebApi.Helper
+{
+    
+    public class FileUploadFilter : IOperationFilter
+    {
+        private static List<string> requiredFiles = new List<string>() { "apiaccountregisterpost", "apipetitioncreatepost"};
+
+
+<<<<<<< HEAD
+        private static List<string> nonRequiredFiles = new List<string>() { "apifeedbackpost", "apiaccountchangecroppedphotoput", "apibackofficeeditskillput" , "apibackofficecreateskillpost","apigroupcreatepost", "apigroupupdateput", "apiskillcreatepost","apiskilleditbyidput" };
+=======
+        private static List<string> nonRequiredFiles = new List<string>() { "apifeedbackpost", "apiaccountchangecroppedphotoput", "apibackofficeeditskillput" , "apibackofficecreateskillpost","apigroupcreatepost", "apigroupupdateput","apiskillskillgroupscreatepost","apiskillskillgroupsupdateput","apiskillcreatepost" };
+>>>>>>> 11c4103648b15cc84196a5e986e953ff9dd7ba34
+
+        public void Apply(Operation operation, OperationFilterContext context)
+        {
+            if (requiredFiles.Contains(operation.OperationId, StringComparer.CurrentCultureIgnoreCase))
+            {
+                ConfifureOperation(operation, context, true);
+            }
+
+            if (nonRequiredFiles.Contains(operation.OperationId, StringComparer.CurrentCultureIgnoreCase))
+            {
+                ConfifureOperation(operation, context, false);
+            }
+        }
+
+        private void ConfifureOperation(Operation operation, OperationFilterContext context, bool isRequired)
+        {
+            var toRemove = operation.Parameters.FirstOrDefault(x => x.Name == "file");
+            operation.Parameters.Remove(toRemove);
+
+            operation.Parameters.Add(new NonBodyParameter
+            {
+                Name = "file",
+                In = "formData",
+                Description = "Upload File",
+                Required = isRequired,
+                Type = "file"
+            });
+            operation.Consumes.Add("multipart/form-data");
+        }
+    }
+}
